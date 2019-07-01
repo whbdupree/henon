@@ -1,0 +1,1 @@
+requires `numpy` and `matplotlib`.  plots bifurcation diagram of the henon map
